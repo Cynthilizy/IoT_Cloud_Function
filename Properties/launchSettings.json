@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "IoT_Cloud_Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7013",
+      "launchBrowser": false
+    }
+  }
+}
